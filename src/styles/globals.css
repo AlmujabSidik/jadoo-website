@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&family=Volkhov:wght@700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+svg.logo-style-1 .logo_svg__color-1  {
+        @apply fill-black
+}
+
+svg.logo-style-1 .logo_svg__color-2  {
+        @apply fill-accent-1;
+}
