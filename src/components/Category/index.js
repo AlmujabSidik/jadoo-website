@@ -9,7 +9,7 @@ const Category = () => {
           <DecorPlus className="decor-plus-style-1" />
         </div>
         <div className="flex flex-col mb-16 text-center">
-          <h3 className="mb-2 text-lg text-gray-500 uppercase font-text-1">
+          <h3 className="mb-2 text-lg font-semibold text-gray-500 font-text-1">
             Category
           </h3>
           <h3 className="text-5xl leading-snug text-gray-900 font-text-2">

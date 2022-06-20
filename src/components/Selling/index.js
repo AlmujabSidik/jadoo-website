@@ -7,7 +7,7 @@ export default function Selling() {
     <section className="relative mb-32">
       <div className="relative px-4 mx-auto max-w-7xl">
         <div className="flex flex-col mb-16 text-center">
-          <h3 className="mb-2 text-lg text-gray-500 uppercase font-text-1">
+          <h3 className="mb-2 text-lg font-semibold text-gray-500 font-text-1">
             Top Selling
           </h3>
           <h3 className="text-5xl leading-snug text-gray-900 font-text-2">
